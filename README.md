@@ -14,6 +14,9 @@
 - sklearn
 - scikitplot
 
+## 💡Algorithms
+Convolutional Neural Network from scratch
+
 ## 👋Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
