@@ -17,7 +17,7 @@
 ## 💡Algorithms
 Convolutional Neural Network from scratch
 
-## 📷Screenshot of Performance
+## 📷Screenshots
 ![Classification Report](https://user-images.githubusercontent.com/113231185/203523816-e93b2080-d083-4e82-957e-afc387006a3d.png)
 
 
