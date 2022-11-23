@@ -26,6 +26,10 @@ Convolutional Neural Network from scratch
 
 ![Confusion Matrix](https://user-images.githubusercontent.com/113231185/203527733-0a24c1a1-6189-473f-8e64-ca126a6bc837.png)
 
+<p><b>ROC Curve</b></p>
+
+![ROC Curve](https://user-images.githubusercontent.com/113231185/203528094-39a368e2-b5a1-4544-aaa8-ef01a55225ea.png)
+
 
 ## 👋Contributing
 
