@@ -4,6 +4,15 @@
 
 [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
+## 📦Packages
+
+- tqdm
+- os
+- open-cv
+- keras
+- tensorflow
+- sklearn
+- scikitplot
 
 ## 👋Contributing
 
