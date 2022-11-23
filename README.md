@@ -22,6 +22,10 @@ Convolutional Neural Network from scratch
 
 ![Classification Report](https://user-images.githubusercontent.com/113231185/203523816-e93b2080-d083-4e82-957e-afc387006a3d.png)
 
+<p><b>Confusion Matrix</b></p>
+
+![Confusion Matrix](https://user-images.githubusercontent.com/113231185/203527733-0a24c1a1-6189-473f-8e64-ca126a6bc837.png)
+
 
 ## 👋Contributing
 
