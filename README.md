@@ -30,6 +30,10 @@ Convolutional Neural Network from scratch
 
 ![ROC Curve](https://user-images.githubusercontent.com/113231185/203528094-39a368e2-b5a1-4544-aaa8-ef01a55225ea.png)
 
+<p><b>Classification with Probability</b></p>
+
+![Visualization with confidence](https://user-images.githubusercontent.com/113231185/203528411-bf2c78e6-d320-4b31-8feb-5e94fcd54335.png)
+
 
 ## 👋Contributing
 
