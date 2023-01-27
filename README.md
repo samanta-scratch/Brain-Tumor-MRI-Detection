@@ -1,5 +1,5 @@
 # 🧠Brain Tumor MRI Detection
-## Overview
+## 👀Overview
 - Sample image visualized in 4 × 4 grid
 - Splitted data into - `Train`, `Test`, `Valid` as 70, 20, 10 ratio
 - Achieved 96% accuracy using  Convolutional Neural Network(`CNN`) from scratch
