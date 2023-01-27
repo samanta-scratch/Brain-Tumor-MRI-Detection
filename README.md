@@ -1,7 +1,7 @@
 # 🧠Brain Tumor MRI Detection
 ## Overview
 - Classified Brain Tumor into 4 classes - `glioma`, `meningioma`, `notumor`, `pituitary`
-- Achieved 98% accuracy using Transfer Learning `EfficientNetB7`
+- Achieved 96% accuracy using  Convolutional Neural Network(`CNN`) from scratch
 - Image uploaded using `ipywidgets` and shown corresponding predicted class using `IPython`
 
 ## 🗃️Datasets
