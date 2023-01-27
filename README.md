@@ -1,8 +1,11 @@
 # 🧠Brain Tumor MRI Detection
 ## Overview
-- Classified Brain Tumor into 4 classes - `glioma`, `meningioma`, `notumor`, `pituitary`
+- Sample image visualized in 4 × 4 grid
+- Splitted data into - `Train`, `Test`, `Valid` as 70, 20, 10 ratio
 - Achieved 96% accuracy using  Convolutional Neural Network(`CNN`) from scratch
-- Image uploaded using `ipywidgets` and shown corresponding predicted class using `IPython`
+- Classified Brain Tumor into 4 classes - `glioma`, `meningioma`, `notumor`, `pituitary`
+- Perfromance visualized using Confusion Matrix, ROC Curve
+- Visualized final predictions with confidence
 
 ## 🗃️Datasets
 
