@@ -1,4 +1,8 @@
-# 🧠Brain-Tumor-MRI-Detection
+# 🧠Brain Tumor MRI Detection
+## Overview
+- Classified Alzheimer Diseases into 4 classes
+- Achieved 98% accuracy using Transfer Learning `EfficientNetB7`
+- Image uploaded using `ipywidgets` and shown corresponding predicted class using `IPython`
 
 ## 🗃️Datasets
 
